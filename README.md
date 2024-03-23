@@ -1,6 +1,6 @@
 
 ![Header](https://github.com/GwartneyDev/GwartneyDev/blob/main/Dream%20_%20Kirokaze.gif)
-# Hi there 👋, I'm [Alex]!
+# Hi there 👋, I'm Alex!
 
 After 7 enriching years navigating the complexities of IT support and technical roles, I've decided to pivot back to my first love: **software development**. While my career has primarily been on the front lines of IT, my heart (and my code editor) remained tethered to the art of programming.
 
