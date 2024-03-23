@@ -22,7 +22,7 @@ Feel free to reach out for collaborations or just a chat about tech, programming
 
 ## 🛠️ Tech Stack:
  
-![JavaScript](https://img.shields.io/badge/-JavaScript-555?style=flat&logo=javascript)\
+![JavaScript](https://img.shields.io/badge/-JavaScript-555?style=flat&logo=javascript)
  
 ![Node.js](https://img.shields.io/badge/-Node.js-555?style=flat&logo=node.js)&nbsp;
  
@@ -43,7 +43,5 @@ Feel free to reach out for collaborations or just a chat about tech, programming
     <tr>
         <td align="center"><a href="https://github.com/vaibhavvikas#gh-light-mode-only"><img src="https://github-readme-streak-stats.herokuapp.com/?user=GwartneyDev&theme=default"/></a><a href="https://github.com/vaibhavvikas#gh-dark-mode-only"><img src="https://github-readme-streak-stats.herokuapp.com/?user=vaibhavvikas&theme=tokyonight"/></a></td>
     </tr>
-    <tr>
-        <td colspan="2" align="center"><a href="https://github.com/vaibhavvikas#gh-light-mode-only"><img src="https://raw.githubusercontent.com/vaibhavvikas/vaibhavvikas/output/github-contribution-grid-snake-default.svg#gh-light-mode-only" alt="My GitHub Stats"/></a><a href="https://github.com/GwartneyDev#gh-dark-mode-only"><img src="https://raw.githubusercontent.com/vaibhavvika/vaibhavvikas/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" alt="My GitHub Stats"/></a></td>
-    </tr>
+   
 </table>
