@@ -7,7 +7,7 @@ After 7 enriching years navigating the complexities of IT support and technical 
 Feel free to reach out for collaborations or just a chat about tech, programming, and the endless possibilities of the backend world.
 
 >[![](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/alexgwartney)
-[![](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/gwartney19](https://twitter.com/gwartney19))
+[![](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/gwartney19)
 [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alex-gwartney-65a825201/)
 ![](https://dcbadge.vercel.app/api/shield/214534610099372032)
 
