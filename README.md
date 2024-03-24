@@ -23,6 +23,10 @@ I believe that my background in IT and support roles has not only made me tech-s
 Feel free to reach out for collaborations or just a chat about tech, programming, and the endless possibilities of the backend world.
 
 >[![General badge](https://img.shields.io/badge/<SUBJECT>-<STATUS>-<COLOR>.svg)](https://shields.io/)
+![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/:user)
+[![General badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://shields.io/)
+![](https://dcbadge.vercel.app/api/shield/214534610099372032)
+
 
 ## 🛠️ Tech Stack:
  
