@@ -7,10 +7,11 @@ After 7 enriching years navigating the complexities of IT support and technical 
 **About Me:**
 
 - 🔭 I’m currently focusing on **backend web development**. The server-side is where I thrive, designing and implementing APIs, managing databases, and ensuring seamless data flow excites me the most.
-- 🌱 I’ve dedicated countless hours outside work to **sharpen my programming skills**. From Java to Python and Node.js, I've explored the depths of languages and frameworks that power the web from behind the scenes.
+- 🌱 I’ve dedicated countless hours outside work to **sharpen my programming skills**. From PHP to GO and Node.js, I've explored the depths of languages and frameworks that power the web from behind the scenes.
 - 👯 I’m looking to collaborate on **open source projects**. Contributing to the community that has given me so much is a dream I intend to fulfill.
 - 🥅 **2024 Goals:** Transition fully into a backend developer role, contribute to significant projects, and learn new technologies that push the boundaries of web development.
-- ⚡ **Fun fact:** My journey in tech began with a simple "Hello, World!" and has since evolved into a quest to make the web a better, faster place.
+- ⚡ **Fun fact:** My journey in tech originally began back in high school. I actually got started with game programming in GameMaker, which led me and a few friends of mine to enter a statewide game competition with a new game prototype we made using RPG Maker. We took first place in a few categories, including marketing, game design, and story. From there, my passion just took off, and I began exploring all sorts of avenues that led me to where I am today.
+   
 
 I believe that my background in IT and support roles has not only made me tech-savvy but also instilled a deep understanding of user needs and the importance of reliable, efficient backend systems. I'm excited to embark on this new chapter, leveraging my past experience to solve complex challenges in software development.
 
